@@ -1,0 +1,23 @@
+{
+    "jhipApp": {
+        "book" : {
+            "home": {
+                "title": "Books",
+                "createLabel": "Δημιουργήστε ένα νέο Book",
+                "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Book"
+            },
+            "created": "Ένα νέο Book έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+            "updated": "Ένα Book έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+            "deleted": "Ένα Book έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+            "delete": {
+                "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Book {{ id }};"
+            },
+            "detail": {
+                "title": "Book"
+            },
+            "title": "Title",
+            "description": "Description",
+            "author": "Author"
+        }
+    }
+}
